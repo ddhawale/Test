@@ -1,0 +1,22 @@
+Java links :
+
+http://javarevisited.blogspot.in/2011/04/top-20-core-java-interview-questions.html
+
+http://java67.blogspot.in/2012/09/top-10-tricky-java-interview-questions-answers.html
+
+http://java67.blogspot.in/2012/09/top-10-tricky-java-interview-questions-answers.html
+
+http://javahungry.blogspot.com/2013/06/top-25-most-frequently-asked-core-java.html
+
+
+Spring Links:
+
+http://www.javacodegeeks.com/2014/05/spring-interview-questions-and-answers.html
+
+Garbage Collection :
+
+http://www.journaldev.com/2856/java-jvm-memory-model-and-garbage-collection-monitoring-tuning
+
+http://www.javatpoint.com/corejava-interview-questions-4
+
+http://java-questions.com/garbagecollection-interview-questions.html
